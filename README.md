@@ -76,5 +76,5 @@ GDS4: Data visualization (3. above)
 
 GDS5: Modeling (stats/machine learning) (4. above)
 
-Looks like "data science" did not change much since 2009 afterall.
+**Looks like "data science" did not change much since 2009 afterall.**
 
