@@ -67,12 +67,12 @@ All this corresponds more or less with the curriculum David Donoho's paper advoc
 
 GDS1: Exploratory data analysis and data preparation/cleaning (2. above)
 
-GDS2: Modern databases (2. above, but as I mentioned above today it should be a
+GDS2: Systems/databases (2. above, but as I mentioned today it should be a
 separate section)
 
-GDS3: Computing with Data: R (1. above)
+GDS3: Computing: R (1. above)
 
-GDS4: Data Visualization (3. above)
+GDS4: Data visualization (3. above)
 
 GDS5: Modeling (stats/machine learning) (4. above)
 
