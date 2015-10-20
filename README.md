@@ -1,6 +1,6 @@
 
 David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf) 
-(Spetember 2015) is a great piece. 
+(September 2015) is a great piece. 
 
 To illustrate how much to the point the issues of (1) data science as a product of many decades and
 (2) desired data science curriculum are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
@@ -50,4 +50,21 @@ courses and books on the subject that would probably make this course obsolete.
 
 #### End verbatim from 2009
 
+In 2009 the term "big data" also just started to pick up and Hadoop was still in its
+infancy and being used only in select companies. 6 years later now I would take out 
+"databases, SQL" into a separate systems section and expand it with topics such as
+analytical databases and "big data" systems.
+
+All this corresponds more or less with the curriculum David Donoho's paper advocates:
+
+GDS1: Exploratory data analysis and data preparation/cleaning (2. above)
+
+GDS2: Modern databases (2. above, but as I mentioned above today it should be a
+separate section)
+
+GDS3: Computing with Data: R (1. above)
+
+GDS4: Data Visualization (3. above)
+
+GDS5: Modeling (stats/machine learning) (4. above)
 
