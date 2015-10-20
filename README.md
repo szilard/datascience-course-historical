@@ -3,7 +3,7 @@ David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23
 (September 2015) is a great piece. 
 
 To illustrate how much to the point the issues of 
-(1) data science as a product of many decades and
+(1) data science is the product of many decades and
 (2) what's the desired data science curriculum 
 are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This was before the term "data science" became commonly
