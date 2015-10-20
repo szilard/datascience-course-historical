@@ -2,8 +2,10 @@
 David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf) 
 (September 2015) is a great piece. 
 
-To illustrate how much to the point the issues of (1) data science as a product of many decades and
-(2) desired data science curriculum are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
+To illustrate how much to the point the issues of 
+(1) data science as a product of many decades and
+(2) what's the desired data science curriculum 
+are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This was before the term "data science" became commonly
 used (so I called it "modern statistical data analysis"). It was also before the plethora of online 
 courses and books on the subject that would probably make this course obsolete.
@@ -48,7 +50,7 @@ courses and books on the subject that would probably make this course obsolete.
 - unsupervised learning: clustering (K-means, hierarchical)
 - data mining in practice: CRISP-DM (domain understanding, data understanding/exploration, data preparation/cleaning, modeling, evaluation, deployment)
 
-#### End verbatim from 2009
+#### End of verbatim from 2009
 
 In 2009 the term "big data" also just started to pick up and Hadoop was still in its
 infancy and being used only in select companies. 6 years later now I would take out 
