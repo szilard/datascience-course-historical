@@ -10,6 +10,7 @@ course or small set of courses of "data science". This was before the term "data
 used (so I called it "modern statistical data analysis"). It was also before the plethora of online 
 courses and books on the subject that would probably make this course obsolete.
 
+-----------------
 
 #### Begin verbatim from 2009
 
@@ -51,6 +52,9 @@ courses and books on the subject that would probably make this course obsolete.
 - data mining in practice: CRISP-DM (domain understanding, data understanding/exploration, data preparation/cleaning, modeling, evaluation, deployment)
 
 #### End of verbatim from 2009
+
+-----------------
+
 
 In 2009 the term "big data" also just started to pick up and Hadoop was still in its
 infancy and being used only in select companies. 6 years later now I would take out 
