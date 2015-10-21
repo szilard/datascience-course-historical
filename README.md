@@ -2,9 +2,9 @@
 David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf) 
 (September 2015) is a great piece. 
 
-To illustrate how much to the point the issues of 
-(1) data science is the product of many decades and
-(2) what's the desired data science curriculum 
+To illustrate how much to the point I think the issues of 
+(1) data science is the product of many *decades* and
+(2) what's the desired data science *curriculum* 
 are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This was before the term "data science" became commonly
 used (so I called it "modern statistical data analysis"). It was also before the plethora of online 
@@ -63,18 +63,18 @@ infancy and being used only in select companies. 6 years later now I would take 
 "databases, SQL" into a separate systems section and expand it with topics such as
 analytical databases and "big data" systems.
 
-All this corresponds more or less with the curriculum David Donoho's paper advocates:
+All this above corresponds more or less with the curriculum David Donoho's paper advocates:
 
 GDS1: Exploratory data analysis and data preparation/cleaning (2. above)
 
-GDS2: Systems/databases (2. above, but as I mentioned today it should be a
+GDS2: Systems/databases (2. above, but as I mentioned, today it deserves a
 separate section)
 
-GDS3: Computing: R (1. above)
+GDS3: Programming: R (1. above)
 
 GDS4: Data visualization (3. above)
 
-GDS5: Modeling (stats/machine learning) (4. above)
+GDS5: Modeling (statistics/machine learning) (4. above)
 
 **Looks like data science did not change much since 2009 afterall.**
 
