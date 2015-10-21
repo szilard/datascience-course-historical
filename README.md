@@ -7,7 +7,7 @@ To illustrate how much to the point I think the issues of
 (2) what's the desired data science *curriculum* 
 are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This was before the term "data science" became commonly
-used (so I called it "modern statistical data analysis"). It was also before the plethora of online 
+used (so I called the term "modern statistical data analysis"). It was also before the plethora of online 
 courses and books on the subject that would probably make this course obsolete.
 
 
@@ -67,7 +67,7 @@ All this above corresponds more or less with the curriculum David Donoho's paper
 
 GDS1: Exploratory data analysis and data preparation/cleaning (2. above)
 
-GDS2: Systems/databases (2. above, but as I mentioned, today it deserves a
+GDS2: Systems/databases (2. above, but as I mentioned, it deserves a
 separate section)
 
 GDS3: Programming: R (1. above)
