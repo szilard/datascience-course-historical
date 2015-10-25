@@ -78,3 +78,10 @@ GDS5: Modeling (statistics/machine learning) (4. above)
 
 **Looks like data science did not change much since 2009 afterall.**
 
+Unlike the way many of the currently available "data science programs" work, I think
+the GDS courses should be taught to students who already have solid fundations
+(i.e. have taken previously courses) in math (esp. probability theory,
+linear algebra etc.), computer science (algorithms, data structures, hardware etc.), 
+statistics, some business (e.g. project management etc.) etc.
+
+
