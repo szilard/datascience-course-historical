@@ -65,7 +65,7 @@ analytical databases and "big data" systems.
 
 All this above corresponds more or less with the curriculum David Donoho's paper advocates:
 
-GDS1: Exploratory data analysis and data preparation/cleaning (2. above)
+GDS1: Exploratory data analysis and data manipulation/preparation and cleaning (2. above)
 
 GDS2: Systems/databases (2. above, but as I mentioned, it deserves a
 separate section)
