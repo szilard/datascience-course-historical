@@ -1,8 +1,10 @@
 
 David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf) 
 (September 2015) is a great piece. Two main points of interest to me are: 
+
 1. it argues that data science is the product of many *decades* and
 2. it describes an ideal data science *curriculum* 
+
 Inspired by this, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This happened before the term "data science" became commonly
 used (so I used instead the term "modern statistical data analysis"). It was also before the plethora of online 
