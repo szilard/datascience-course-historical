@@ -1,14 +1,12 @@
 
 David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf) 
-(September 2015) is a great piece. 
-
-To illustrate how much to the point I think the issues of 
-(1) data science is the product of many *decades* and
-(2) what's the desired data science *curriculum* 
-are, I'm releasing here a course proposal draft I wrote in 2009 for a possible
-course or small set of courses of "data science". This was before the term "data science" became commonly
-used (so I called the term "modern statistical data analysis"). It was also before the plethora of online 
-courses and books on the subject that would probably make this course obsolete.
+(September 2015) is a great piece. Two main points of interest to me are: 
+(1) it argues that data science is the product of many *decades* and
+(2) it describes an ideal data science *curriculum* 
+Inspired by this, I'm releasing here a course proposal draft I wrote in 2009 for a possible
+course or small set of courses of "data science". This happened before the term "data science" became commonly
+used (so I used instead the term "modern statistical data analysis"). It was also before the plethora of online 
+courses and books on the subject that would make this course less unique.
 
 
 #### Begin verbatim from 2009
@@ -59,8 +57,8 @@ courses and books on the subject that would probably make this course obsolete.
 
 
 In 2009 the term "big data" also just started to pick up and Hadoop was still in its
-infancy and being used only in select companies. 6 years later now I would take out 
-"databases, SQL" into a separate systems section and expand it with topics such as
+infancy and being used only in select companies. 6 years later (that is now) I would put 
+"databases, SQL" into a separate section and expand it with topics such as
 analytical databases and "big data" systems.
 
 All this above corresponds more or less with the curriculum David Donoho's paper advocates:
@@ -77,6 +75,8 @@ GDS4: Data visualization (3. above)
 GDS5: Modeling (statistics/machine learning) (4. above)
 
 **Looks like data science did not change much since 2009 afterall.**
+
+(Donoho would also include a "meta" course  GDS6: The science of data science)
 
 Unlike the way many of the currently available "data science programs" work, I think
 the GDS courses should be taught to students who already have solid fundations
