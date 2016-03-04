@@ -73,11 +73,11 @@ GDS5: Modeling (statistics/machine learning) (4. above)
 
 (Donoho would also include a "meta" course  GDS6: The science of data science)
 
-Also, besides these one would want to teach software engineering practices and tools such
+Also, besides these one would want to teach software/data engineering practices and tools such
 as tools for reproducible research/productive data analysis (e.g. Rmarkdown/Jupyter notebooks),
 collaboration (git/github), Unix tools for manipulating files/text and automating tasks,
-cloud computing for elastic scaling, engineering practices for deploying software in production,
-big data technologies etc. (either as part of GDS2 or separately).
+cloud computing for elastic scaling of computations, engineering practices for deploying software in production,
+analytical/MPP databases, big data technologies etc. (either as part of GDS2 or separately).
 
 Unlike the way many of the currently available "data science programs" work, I think
 the GDS courses should be taught to students who already have solid fundations
