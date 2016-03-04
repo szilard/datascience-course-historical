@@ -8,7 +8,7 @@ David Donoho's [50 Years of Data Science](https://dl.dropboxusercontent.com/u/23
 Inspired by this paper, I'm releasing here a course proposal draft I wrote in 2009 for a possible
 course or small set of courses of "data science". This happened before the term "data science" became commonly
 used (so I used instead the term "modern statistical data analysis"). It was also before the plethora of online 
-courses and books on the subject that would make this course way less valuable.
+courses and books on the subject that would make this course hardly unique.
 
 
 #### Begin verbatim from 2009
@@ -57,18 +57,11 @@ courses and books on the subject that would make this course way less valuable.
 #### End of verbatim from 2009
 
 
-
-In 2009 the term "big data" also just started to pick up and Hadoop was still in its
-infancy and being used only in select companies. 6 years later (that is now) I would put 
-"databases, SQL" into a separate section and expand it with topics such as
-analytical databases and "big data" systems.
-
 All this above corresponds more or less with the curriculum David Donoho's paper advocates:
 
 GDS1: Exploratory data analysis and data manipulation/preparation and cleaning (2. above)
 
-GDS2: Systems/databases (2. above, but as I mentioned, it deserves a
-separate section)
+GDS2: Systems/databases (2. above, but see more comments below)
 
 GDS3: Programming: R (1. above)
 
@@ -80,10 +73,16 @@ GDS5: Modeling (statistics/machine learning) (4. above)
 
 (Donoho would also include a "meta" course  GDS6: The science of data science)
 
+Also, besides these one would want to teach software engineering practices and tools such
+as tools for reproducible research/productive data analysis (e.g. Rmarkdown/Jupyter notebooks),
+collaboration (git/github), Unix tools for manipulating files/text and automating tasks,
+cloud computing for elastic scaling, engineering practices for deploying software in production,
+big data technologies etc. (either as part of GDS2 or separately).
+
 Unlike the way many of the currently available "data science programs" work, I think
 the GDS courses should be taught to students who already have solid fundations
 (i.e. have taken previously courses) in math (esp. probability theory,
-linear algebra etc.), computer science (algorithms, data structures, hardware etc.), 
-statistics, some business (e.g. project management etc.) etc.
+linear algebra etc.), statistics, computer science (algorithms, data structures, hardware etc.), 
+some business (e.g. project management etc.) etc.
 
 
