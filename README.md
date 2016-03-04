@@ -57,7 +57,7 @@ courses and books on the subject that would make this course hardly unique.
 #### End of verbatim from 2009
 
 
-All this above corresponds more or less with the curriculum David Donoho's paper advocates:
+All this above corresponds more or less to the curriculum David Donoho's paper advocates:
 
 GDS1: Exploratory data analysis and data manipulation/preparation and cleaning (2. above)
 
@@ -73,11 +73,11 @@ GDS5: Modeling (statistics/machine learning) (4. above)
 
 (Donoho would also include a "meta" course  GDS6: The science of data science)
 
-Also, besides these one would want to teach software/data engineering practices and tools such
+Also, besides these courses, one would want to teach software/data engineering practices and practical tools such
 as tools for reproducible research/productive data analysis (e.g. Rmarkdown/Jupyter notebooks),
 collaboration (git/github), Unix tools for manipulating files/text and automating tasks,
 cloud computing for elastic scaling of computations, engineering practices for deploying software in production,
-analytical/MPP databases, big data technologies etc. (either as part of GDS2 or separately).
+analytical/MPP databases, big data technologies etc. (either extending GDS2 or as a separate course).
 
 Unlike the way many of the currently available "data science programs" work, I think
 the GDS courses should be taught to students who already have solid fundations
