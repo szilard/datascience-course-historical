@@ -79,6 +79,10 @@ collaboration (git/github), Unix tools for manipulating files/text and automatin
 cloud computing for elastic scaling of computations, engineering practices for deploying software in production,
 analytical/MPP databases, big data technologies etc. (either extending GDS2 or as a separate course).
 
+Furthermore, it is imperative for students to have/acquire "soft skills" like curiosity, creativity, skepticism, 
+ability to ask good questions, communication and get experience in "real world" situations like working
+on projects, in teams and having in mind higher-level goals such as business goals for projects etc.
+
 Unlike the way many of the currently available "data science programs" work, I think
 the GDS courses should be taught to students who already have solid fundations
 (i.e. have taken previously courses) in math (esp. probability theory,
